@@ -1,0 +1,36 @@
+*{
+    margin: 8px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./pexels-christina-morillo-1181467.jpg) ;
+    border-image-width: 100%;
+}
+.seccion{
+margin: auto;
+text-align: center;
+color: white;
+}
+#formulario{
+    margin: auto;
+    border: solid black;
+    width: 1100px;
+    text-align: left;
+    background-color: rgb(1, 1, 63);
+    color: white;
+}
+.input1{
+    width: 92%;
+    height: 50px;
+}
+.input2{
+    width: 90%;
+    height: 90px;
+}
+button{
+    background-color: green;
+    width: 92%;
+    height: 40px;
+    color: white;
+}
